@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Un blog de cine
 
-I'm glad you are here. I plan to talk about ...
+Conoce las novedades de los últimos titulos.
