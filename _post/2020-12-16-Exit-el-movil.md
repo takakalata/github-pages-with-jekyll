@@ -1,5 +1,6 @@
 ===
-title: Exit el movil
+Exit el movil
+---
 Se basa en un asistente de voz, que reside en un móvil concreto.
 Interactua con los propietarios del móvil (siempre chicos), estableciendo una relación de amor, que en ocasiones pretende que vaya más allá.
 ---
